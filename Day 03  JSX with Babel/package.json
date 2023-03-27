@@ -1,0 +1,18 @@
+{
+  "name": "day-03-jsx-with-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "React.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel ./script.js --out-dir lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.3",
+    "@babel/preset-react": "^7.18.6"
+  }
+}

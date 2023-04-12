@@ -40,7 +40,7 @@ const AppleCounter = () => {
           clickHandler={rightClickHandler}
           imageUrl={RightArrow}
           buttonName="Right Arrow"
-          children="Left Key"
+          children="Left Key"//children
         />
         <AppleBasket appleCount={rightAppleCount} basketName="Basket 2" />
       </section>
